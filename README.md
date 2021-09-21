@@ -1,7 +1,7 @@
 ## Introduction :memo:
 **BmdConverter** is a MuOnline client file converting tool.
 
-With this tool, you may simply convert your client files into **.csv** file format, and edit them in Microsoft Excel.
+With this tool, you may simply convert your client files into **.csv** file format, and edit them using Microsoft Excel.
 
 Supported Versions :white_check_mark:
 --------
